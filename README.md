@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oleksandr Stetsyuk
+- 👋 Hi, I’m Oleksandr Stetsiuk
 - 👀 I’m interested in programming, learning new things, skating and reading
 - 🌱 I’m currently learning Angular and TypeScript
 - 📫 How to reach me san9istec@gmail.com
